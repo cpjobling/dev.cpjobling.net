@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://dev.cpjobling.net/</loc>
+  <lastmod>2018-01-04T17:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dev.cpjobling.net/2018/</loc>
+  <lastmod>2018-01-04T17:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dev.cpjobling.net/archive.html</loc>
+  <lastmod>2018-01-04T17:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dev.cpjobling.net/categories/</loc>
+  <lastmod>2018-01-04T17:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dev.cpjobling.net/galleries/</loc>
+  <lastmod>2018-01-04T17:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dev.cpjobling.net/listings/</loc>
+  <lastmod>2018-01-04T17:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dev.cpjobling.net/pages/about-me/</loc>
+  <lastmod>2018-01-04T17:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dev.cpjobling.net/pages/about/</loc>
+  <lastmod>2018-01-04T17:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dev.cpjobling.net/posts/welcome-to-my-nikola-driven-dev-blog/</loc>
+  <lastmod>2018-01-04T17:24:00Z</lastmod>
+ </url>
+</urlset>
