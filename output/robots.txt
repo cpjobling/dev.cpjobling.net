@@ -1,4 +1,0 @@
-Sitemap: https://dev.cpjobling.net/sitemapindex.xml
-
-User-Agent: *
-Host: dev.cpjobling.net
