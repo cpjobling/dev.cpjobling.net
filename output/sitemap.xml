@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://dev.cpjobling.net/</loc>
-  <lastmod>2018-01-04T19:10:00Z</lastmod>
+  <lastmod>2018-01-04T19:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://dev.cpjobling.net/2010/</loc>
@@ -43,7 +43,11 @@
  </url>
  <url>
   <loc>https://dev.cpjobling.net/categories/</loc>
-  <lastmod>2018-01-04T17:59:00Z</lastmod>
+  <lastmod>2018-01-04T19:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dev.cpjobling.net/categories/blog/</loc>
+  <lastmod>2018-01-04T19:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://dev.cpjobling.net/galleries/</loc>

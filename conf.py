@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Chris Jobling"  # (translatable)
-BLOG_TITLE = "My Development Blog"  # (translatable)
+BLOG_TITLE = "Crispy Dev"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://dev.cpjobling.net/"
@@ -26,7 +26,7 @@ SITE_URL = "https://dev.cpjobling.net/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://dev.cpjobling.net/"
 BLOG_EMAIL = "cpjobling+developer@gmail.com"
-BLOG_DESCRIPTION = "Adventures in Software and Course Development"  # (translatable)
+BLOG_DESCRIPTION = "Adventures in coding land."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -137,7 +137,7 @@ NAVIGATION_LINKS = {
         ("/archive/", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
-        ("/about/", "About"),
+        ("/pages/about/", "About"),
     ),
 }
 
