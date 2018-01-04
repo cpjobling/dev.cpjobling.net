@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Development Blog</title><link>https://dev.cpjobling.net/</link><description>Adventures in Software and Course Development</description><atom:link href="https://dev.cpjobling.net/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:cpjobling+developer@gmail.com"&gt;Chris Jobling&lt;/a&gt; </copyright><lastBuildDate>Thu, 04 Jan 2018 17:24:36 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to my Nikola-driven Dev Blog</title><link>https://dev.cpjobling.net/posts/welcome-to-my-nikola-driven-dev-blog/</link><dc:creator>Chris Jobling</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Development Blog</title><link>https://dev.cpjobling.net/</link><description>Adventures in Software and Course Development</description><atom:link href="https://dev.cpjobling.net/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:cpjobling+developer@gmail.com"&gt;Chris Jobling&lt;/a&gt; </copyright><lastBuildDate>Thu, 04 Jan 2018 19:00:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to my Nikola-driven Dev Blog</title><link>https://dev.cpjobling.net/posts/welcome-to-my-nikola-driven-dev-blog/</link><dc:creator>Chris Jobling</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
     &lt;div class="container" id="notebook-container"&gt;
 
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
@@ -14,4 +14,74 @@
 &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-</description><guid>https://dev.cpjobling.net/posts/welcome-to-my-nikola-driven-dev-blog/</guid><pubDate>Thu, 04 Jan 2018 17:15:28 GMT</pubDate></item></channel></rss>
+</description><guid>https://dev.cpjobling.net/posts/welcome-to-my-nikola-driven-dev-blog/</guid><pubDate>Thu, 04 Jan 2018 17:15:28 GMT</pubDate></item><item><title>Upgraded to Octopress 2.0</title><link>https://dev.cpjobling.net/posts/upgraded-to-octopress-20/</link><dc:creator>Chris Jobling</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+    &lt;div class="container" id="notebook-container"&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;Write your post here.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description><guid>https://dev.cpjobling.net/posts/upgraded-to-octopress-20/</guid><pubDate>Tue, 16 Aug 2011 20:19:00 GMT</pubDate></item><item><title>SelectorGadget and Nokgiri</title><link>https://dev.cpjobling.net/posts/selectorgadget-and-nokgiri/</link><dc:creator>Chris Jobling</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+    &lt;div class="container" id="notebook-container"&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;Write your post here.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description><guid>https://dev.cpjobling.net/posts/selectorgadget-and-nokgiri/</guid><pubDate>Tue, 05 Apr 2011 10:37:00 GMT</pubDate></item><item><title>Getting back into development mode</title><link>https://dev.cpjobling.net/posts/getting-back-into-development-mode/</link><dc:creator>Chris Jobling</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+    &lt;div class="container" id="notebook-container"&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;Write your post here.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description><guid>https://dev.cpjobling.net/posts/getting-back-into-development-mode/</guid><pubDate>Wed, 30 Mar 2011 23:00:00 GMT</pubDate></item><item><title>Introducing BDD to Proman</title><link>https://dev.cpjobling.net/posts/introducing-bdd-to-proman/</link><dc:creator>Chris Jobling</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+    &lt;div class="container" id="notebook-container"&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;Write your post here.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description><guid>https://dev.cpjobling.net/posts/introducing-bdd-to-proman/</guid><pubDate>Fri, 26 Mar 2010 00:00:00 GMT</pubDate></item><item><title>Running an Octopress Blog</title><link>https://dev.cpjobling.net/posts/running-an-octopress-blog/</link><dc:creator>Chris Jobling</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+    &lt;div class="container" id="notebook-container"&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;Write your post here.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description><guid>https://dev.cpjobling.net/posts/running-an-octopress-blog/</guid><pubDate>Sun, 14 Mar 2010 00:00:00 GMT</pubDate></item></channel></rss>
