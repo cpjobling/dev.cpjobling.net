@@ -632,11 +632,11 @@ REDIRECTIONS = []
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
-# DEPLOY_COMMANDS = {
-#     'default': [
-#         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
-#     ]
-# }
+DEPLOY_COMMANDS = {
+ 'default': [
+    "rsync -rav --delete output/ cpjobli1@cpjobling.net:/home/cpjobli1/dev.cpjobling.net",
+ ]
+}
 
 # github_deploy configuration
 # For more details, read the manual:
@@ -1034,7 +1034,7 @@ COMMENT_SYSTEM = "disqus"
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = ""
+COMMENT_SYSTEM_ID = "crispy-dev"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
