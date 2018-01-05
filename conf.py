@@ -25,7 +25,7 @@ SITE_URL = "https://dev.cpjobling.net/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://dev.cpjobling.net/"
-BLOG_EMAIL = "cpjobling+developer@gmail.com"
+BLOG_EMAIL = "cpjobling@cpjobling.net"
 BLOG_DESCRIPTION = "Adventures in coding land."  # (translatable)
 
 # Nikola is multilingual!
